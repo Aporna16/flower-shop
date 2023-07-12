@@ -56,24 +56,25 @@
     color: #757575;
     text-align: center;
     font-size: 16px;
-    margin-bottom: 60px;
+   margin-bottom: 30px;
 }
 
 /* feature styles */
 main {
     max-width: 930px;
+    
     margin: 0 auto;
 }
 
 .features {
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .feature-container {
     display: flex;
     gap: 40px;
-    height: 100px;
-    margin-bottom: 100px;
+    
 }
 
 .feature-img1 {
@@ -111,7 +112,12 @@ main {
     padding-bottom: 30px;
 }
 
+.part{
+background-color: #f2fafa;
+}
 .part-2-container{
     display: flex;
     gap: 30px;
+    padding: 30px;
+    text-align: center;
 }
