@@ -12,7 +12,6 @@
     border-radius: 5px;
     background: #E55473;
 }
-
 /* banner part styles */
 .banner {
     padding: 30px 30px 0px 100px;
@@ -21,11 +20,9 @@
     justify-content: space-between;
     background-color: #f6e9ec;
 }
-
 .banner-content {
     max-width: 400px;
 }
-
 .banner-title {
     font-size: 45px;
     font-weight: 700;
@@ -33,17 +30,14 @@
     margin-bottom: 20px;
     color: #272727;
 }
-
 .banner .banner-pic {
     width: 500px;
 }
-
 .banner-description {
     color: #757575;
     font-size: 16px;
     margin-bottom: 25px;
 }
-
 .section-title {
     color: #181818;
     text-align: center;
@@ -51,7 +45,6 @@
     font-weight: 700;
     margin-bottom: 15px;
 }
-
 .section-description {
     color: #757575;
     text-align: center;
@@ -62,19 +55,15 @@
 /* feature styles */
 main {
     max-width: 930px;
-    
     margin: 0 auto;
 }
-
 .features {
     margin-top: 60px;
     margin-bottom: 60px;
 }
-
 .feature-container {
     display: flex;
     gap: 40px;
-    
 }
 
 .feature-img1 {
@@ -146,4 +135,22 @@ margin-bottom: 10px;
 .deal-pic{
     height: 320px;
 }
+#instagram-description {
+    padding: 10px 10px;
+}
+.instagram-container{
+    display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+   max-width: 930px;
+   gap: 10px;
+   margin-bottom: 60px;
+    
+}
+.instagram{
+    height: 250px;
+    width: 250px;
+}
+
+
 
