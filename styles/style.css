@@ -4,11 +4,11 @@
 
 .btn-primary {
     color: #FFFFFF;
-    font-weight: 700;
-    font-size: 18px;
+    font-weight: 400;
+    font-size: 16px;
     border: 0;
     padding: 15px 20px;
-    height: 50px;
+    height: 45px;
     border-radius: 5px;
     background: #E55473;
 }
@@ -43,13 +43,13 @@
     text-align: center;
     font-size: 25px;
     font-weight: 700;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .section-description {
     color: #757575;
     text-align: center;
     font-size: 16px;
-   margin-bottom: 30px;
+   margin-bottom: 15px;
 }
 
 /* feature styles */
@@ -89,8 +89,8 @@ main {
     height: 340px;
     padding-top: 10px;
     width: 280px;
-    border-top-right-radius: 45%;
-    border-top-left-radius: 45%;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
 }
 
 .feature-title {
@@ -150,6 +150,71 @@ margin-bottom: 10px;
 .instagram{
     height: 250px;
     width: 250px;
+}
+
+.latest-deal{
+    margin-top: 130px;
+    text-align: center;
+    background-image: url('../images/Rectangle\ 9.png');
+    margin: 0 auto;
+    border-radius: 5px;
+    max-width: 930px;
+  padding: 20px;
+}
+.latest-title{
+    color: #181818;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 35px;
+    
+}
+input[type="email"],
+input{
+    height: 15px;
+    width: 50%;
+    
+}
+.input-primary{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    border: 0;
+    padding: 15px 20px;
+    height: 5px;
+    border-radius: 5px; 
+}
+.input-section{
+    padding-bottom: 60px;
+}
+.footer{
+    margin-top: 60px;
+
+    background: black;
+}
+.flower{
+    color: #E55473;
+}
+.shop{
+    color: white;
+}
+.footer-container{
+    padding: 60px;
+}
+.footer-description {
+    color: #bebaba;
+    text-align: center;
+    font-size: 16px;
+   margin-bottom: 15px;
+}
+.footer-p{
+    color: #434343;
+    text-align: center;
+    font-size: 16px;
+   margin-bottom: 15px;
+}
+.off{
+    color: #E55473;
 }
 
 
